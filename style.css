@@ -1,0 +1,14 @@
+body{
+    background-image: url('principal.png');
+    background-repeat:no-repeat;
+    background-size:100%;
+    color: white;
+}
+
+a{
+    color: white;
+}
+
+a:hover{
+    background-color: red;
+}
